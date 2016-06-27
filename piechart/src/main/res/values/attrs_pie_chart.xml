@@ -1,0 +1,10 @@
+<resources>
+    <declare-styleable name="Wedge">
+        <attr name="wedgeName" format="string" />
+        <attr name="wedgePercent" format="float" />
+        <attr name="wedgeColor" format="color" />
+    </declare-styleable>
+    <declare-styleable name="wedgePercentatge">
+        <attr name="percent" format="float" />
+    </declare-styleable>
+</resources>
